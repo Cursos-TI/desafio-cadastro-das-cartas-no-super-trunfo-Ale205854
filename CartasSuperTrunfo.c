@@ -9,36 +9,31 @@
 int main() {
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
-    int país1, país2, país3, país4;
+    int População;
+    float Área;
+    float PIB;
+    int número (de pontos turísticos);
+    char nome[50];
 
-    char nome[100] = "país1 Brasil\n, país2 Portugal\n, país3 Noruega\n, país4 frança\n";
+    printf("digite sua População");
+    scanf("%f", &População);
+    printf("digite sua População");
 
-    int país1
-    char
+    printf("digite sua Área");
+    scanf("%e", &Área);
+    printf("digite sua Área");
 
+    printf("Digite sua PIB");
+    scanf("%f", &PIB);
+    printf("Digite sua PIB");
 
+    printf("digite sua númerodepontosturísticos");
+    scanf("%d", &númerodepontosturísticos);
+    printf("digite sua númerodepontosturísticos");
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    printf("digite sua nome");
+    scanf("%c", &nome);
+    printf("digite sua nome");
 
 
 
